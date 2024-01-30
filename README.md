@@ -14,7 +14,7 @@ Welcome to my GitHub profile! I'm **Jayendra**, a passionate enthusiast in the f
 - Backend: **Python**, **Django**
 - AI/ML: **Machine Learning**, **Artificial Intelligence**, **ChatGPT**
 - Databases: **Postgres**
-- Testing: **Testcases**
+- Testing: **PyTest**
 - Version Control: **Git**
 
 ## 🌱 Learning & Exploring
@@ -35,8 +35,8 @@ I've been involved in exciting projects that have allowed me to apply my skills 
 
 I'm always eager to connect with like-minded individuals and collaborate on interesting projects. Feel free to reach out through the following channels:
 
-- LinkedIn: [Jayendra Gohil](https://linkedin.com/in/jayendra-gohil-603b39133)
-- Email: jayendra.citrusbug@gmail.com
+- LinkedIn: **[Jayendra Gohil](https://linkedin.com/in/jayendra-gohil-603b39133)**
+- Email: **jayendra.citrusbug@gmail.com**
 
 ## ⚡ Fun Fact
 
